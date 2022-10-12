@@ -1,5 +1,5 @@
 # Kunjan's Cuisine
 
-**A HTML CSS Project**. Mede with ♥  <br>
+**A HTML CSS Project**. Made with ♥  <br>
 
 ![](./readmeImg/banner.png)
